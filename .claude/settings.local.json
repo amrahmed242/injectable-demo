@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(flutter pub *)",
+      "Bash(dart run *)",
+      "Bash(sudo chmod *)",
+      "Bash(flutter analyze *)",
+      "Bash(rtk ls *)",
+      "Bash(rtk read *)",
+      "Bash(rtk wc *)"
+    ]
+  }
+}
